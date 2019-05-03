@@ -1,0 +1,16 @@
+{
+  "streams": [
+    {
+      "title": "First Stream",
+      "description": "Dota2",
+      "userId": "108232506740449521396",
+      "id": 1
+    },
+    {
+      "title": "Second Stream",
+      "description": "Fortnite",
+      "userId": "108232506740449521396",
+      "id": 2
+    }
+  ]
+}
